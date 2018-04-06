@@ -1,0 +1,7 @@
+
+Ysquid:S1854"8Remove this useless assignment to local variable "user".(©Í”äýÿÿÿÿ8¹±ªØ©,
+]squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ƒ¤ÂØ©,
+Esquid:S00108")Either remove or fill this block of code.(ïõÙE8¹±ªØ©,
+psquid:UselessImportCheck"BRemove this unused import 'com.facebook.login.widget.LoginButton'.(“îôÉûÿÿÿÿ8·¶¨Ø©,
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+Jsquid:S1481")Remove this unused "user" local variable.(©Í”äýÿÿÿÿ8¹±ªØ©,
